@@ -1,1 +1,1 @@
-My advent of code code, very ugly and I usually stop when it would take me hours to get the stars on a day 😶‍🌫️
+My advent of code code aka the time of year where I come back to Julia. 
